@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 20,
+    "FSharp.enableAnalyzers": true,
+    "FSharp.analyzersPath": [
+        "./packages/analyzers"
+    ]
+}

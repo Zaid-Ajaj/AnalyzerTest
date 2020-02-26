@@ -1,0 +1,6 @@
+source https://www.nuget.org/api/v2
+
+group Analyzers
+source https://www.nuget.org/api/v2
+
+nuget NpgsqlFSharpAnalyzer
